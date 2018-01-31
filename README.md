@@ -1,3 +1,3 @@
-# Devnet-2100
+# Devnet-2001
 
-Devnet 2100 usecase scripts
+Devnet 2001 usecase scripts
